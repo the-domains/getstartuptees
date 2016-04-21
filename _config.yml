@@ -1,28 +1,18 @@
-name: getstartuptees
-favicon: null
-layout_spectrum: 0.9474993224721402
-typography_spectrum: 0.6221216500271112
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#B8B8B8'
+    - '#731B12'
+    - '#B09868'
+    - '#E04838'
+    - '#E0C070'
   brandStrength: 0.19147885777056217
   lightness: 0.8551687619183213
-  saturation: 0.4573698171880096
   rhythmicContrast: 0.7046036515384912
+  saturation: 0.4573698171880096
+cta: {}
+layout_spectrum: 0.947499
+name: getstartuptees
+opengraph: {}
 purpose: []
+typography_spectrum: 0.6221216500271112
